@@ -25,7 +25,7 @@
 ### 🎨 Phase 2: User Experience
 **🚀 Objective:** UI/UX and Performance Optimization  
 **🔧 Key Technologies:**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
 ![Meilisearch](https://img.shields.io/badge/Meilisearch-000000?style=flat&logo=meilisearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
