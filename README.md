@@ -16,11 +16,9 @@
   - 🚗 Vehicles (Brand, Model, Year)
   - 🔩 Spare Parts (OEM, Price, Stock)
   - 🔄 Compatibility (N-N relationships)
-- [ ] Basic payment integration:
-  - 💳 Stripe/PayPal
-  - 📱 PagoMóvil (Venezuela)
+- [ ] Easy payment integration:
+  - 💳 QR code generation for payments
 - [ ] Basic REST API with Sanctum
-- [ ] Email notification system
 
 ---
 
@@ -73,3 +71,9 @@
 - [ ] PDF/Excel report generation
 
 ---
+
+### 💼 Additional features
+- [ ] More payment integration:
+  - 💳 Stripe/PayPal
+- [ ] Email notification system
+
