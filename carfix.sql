@@ -111,7 +111,7 @@ CREATE TABLE spare_parts (
   featured BOOLEAN DEFAULT 0,
   discount_percentage DECIMAL(5,2) DEFAULT 0,
   description TEXT,
-  condition ENUM('new', 'used', 'refurbished') DEFAULT 'new',
+  part_condition ENUM('new', 'used', 'refurbished') DEFAULT 'new',
   weight DECIMAL(8,2),
   dimensions VARCHAR(100),
   sales_count INT DEFAULT 0,
