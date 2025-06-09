@@ -1,8 +1,8 @@
 -- Estructura base de datos para CarFix
 -- Marketplace de repuestos automotrices en San Fernando de Apure
 
-CREATE DATABASE IF NOT EXISTS carfix CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE carfix;
+CREATE DATABASE IF NOT EXISTS carfix_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE carfix_db;
 
 -- SISTEMA DE USUARIOS Y PERFILES --
 
